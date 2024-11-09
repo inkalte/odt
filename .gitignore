@@ -6,3 +6,4 @@
 /logs/*.log
 /env.py
 
+/db_old/add_host.py

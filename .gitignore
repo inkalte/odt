@@ -1,0 +1,8 @@
+/venv/
+/.idea/
+/**/tmp/
+/export/
+/db/*.json
+/logs/*.log
+/env.py
+
